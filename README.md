@@ -1,5 +1,17 @@
 # create-svelte
 
+## Frontend Framework Implementation
+
+### Code Journel
+
+- I really liked it and i wanted to work atleast once otherwise i would forget how it works.
+- I tried to follow this [svelte](https://kit.svelte.dev/) but got lost.
+- Then i started following this [Josh Collinsworth](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
+
+- It was pretty good i liked it so far.
+
+
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
