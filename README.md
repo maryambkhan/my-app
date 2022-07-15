@@ -1,5 +1,6 @@
 # create-svelte
 
+- [netlify](https://62d1df5ac1d65d7e9885c298--jolly-gecko-01eaf3.netlify.app/)
 ## Frontend Framework Implementation
 
 ### Code Journel
